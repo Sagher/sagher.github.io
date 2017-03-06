@@ -274,7 +274,7 @@ p {
 /*--//education--*/
 /*--skills--*/
 .skills{
-	background:#292b2d;
+	background:#fff;
 }
 .bar-grids {
     padding: 0 4em;
@@ -282,14 +282,14 @@ p {
 .progress {
     height: 10px;
     margin-bottom: 2.2em;
-    background-color: #2F2C06;
+    background-color: #e1e1e1;
 }
 .progress-bar { 
-    background-color: #766E04;
+    background-color: #3daaaa;
 }
 .bar-grids h6 {
     font-size: 1.1em;
-    color: #fff;
+    color: #000;
     margin-bottom: 0.6em;
 }
 .bar-grids h6 span {
@@ -499,6 +499,9 @@ h2.resp-accordion {
 	-ms-transform: translate3d(0,0,0);
 }
 /*--//portfolio--*/
+.portfolio{
+    background: #292b2d;
+}
 /*--contact--*/
 .contact{
 	background:#000;
