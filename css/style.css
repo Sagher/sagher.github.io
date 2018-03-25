@@ -1105,3 +1105,7 @@ h3.title {
 
 }
 /*--//responsive-design---*/
+.img-responsive{
+	min-height:180px;
+	max-height: 180px;
+	|
